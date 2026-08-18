@@ -100,3 +100,18 @@ A Honda GPS map update can help supported navigation systems use newer road and 
 Before beginning the process, identify your Honda model, model year, navigation system, and current map version. Use the appropriate update method for that system and avoid using map files or USB procedures intended for another vehicle.
 
 After completing the installation, check the navigation system's map information to confirm that the updated database is installed successfully.
+
+
+GPS Navigation Updates
+======================
+
+Welcome to our GPS navigation update guide.
+
+Articles
+--------
+
+.. toctree::
+   :maxdepth: 2
+   :caption: GPS Update Articles
+
+   articles/honda-navigation-update
