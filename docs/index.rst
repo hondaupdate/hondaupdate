@@ -8,6 +8,7 @@ Keeping your Honda navigation system updated can make driving easier by providin
    :height: 520px
    :align: center
    :alt: Get Help
+   :class: non-clickable-banner
 
 Why Update Honda GPS Maps
 -------------------------
